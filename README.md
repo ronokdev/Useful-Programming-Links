@@ -3,8 +3,8 @@
 
 
 # Blog
-    1. https://dev.to/
-    2. https://blog.codinghorror.com
+    1. [dev_to](https://dev.to)
+    2. [Coding_Horror](https://blog.codinghorror.com)
     3. https://refactoring.guru/
     4. https://thedailywtf.com/
     5. https://news.ycombinator.com/
