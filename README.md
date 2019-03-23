@@ -10,7 +10,7 @@
   7. [Joel On Software](https://www.joelonsoftware.com/)
   8. [Medium-Software Engineering](https://medium.com/topic/software-engineering)
   9. [Meditm-Programming](https://medium.com/topic/programming)
-  10.[Zen of Programming](https://zen-of-programming.com/)
+  10. [Zen of Programming](https://zen-of-programming.com/)
   
 # conference 
   1. [The Strange Loop](https://www.thestrangeloop.com/)
