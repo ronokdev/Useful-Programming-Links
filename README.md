@@ -19,6 +19,9 @@
   
 # Coding Practice
   1. [Advent to code](https://adventofcode.com/)
+  2. [CodeWars](https://www.codewars.com/)
+  3. [Hacker Rank](https://www.hackerrank.com/dashboard)
+  4. [Project Euler](https://projecteuler.net/)
   
 # User Story | SRS
   1. [Manifesto](https://manifesto.co.uk/user-story-mapping/)
