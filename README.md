@@ -63,4 +63,5 @@
     - [Spring boot Intro](https://www.in28minutes.com/spring-boot-introduction-in-10-steps)
   5. [Udemy | spring Boot | free course](https://www.udemy.com/spring-boot-complete-guide-from-development-to-deployment/learn/v4/overview)
   6. [SpringBootTutorial | basic](http://www.springboottutorial.com/)
+  7. [Spring Boot | Auto Configuration](http://www.springboottutorial.com/spring-boot-auto-configuration)
   
