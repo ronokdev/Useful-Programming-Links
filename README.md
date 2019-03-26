@@ -58,7 +58,7 @@
 # Github
   1. [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc/related) - lets you browse GitHub repositories with a sidebar tree view similar to what you get in applications like VS Code.
 
-# JAVA | Spring Boot
+# JAVA | Spring Boot | ⭐⚡⭐ ✅
   1. [Documentation](https://docs.spring.io/spring-boot/docs/2.1.3.RELEASE/reference/html/) - This is the Official Spring Boot Documentation
   2. [Tutorial | Basic](https://in28minutes1.teachable.com/courses/enrolled/257263) - This is a basic tutorial from in28minutes
   3. [Spring Boot intro in 10 steps](https://www.in28minutes.com/spring-boot-introduction-in-10-steps) - this is a tutorial from in28minutes about Spring Boot intro in 10 steps.
