@@ -59,12 +59,10 @@
   1. [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc/related) - lets you browse GitHub repositories with a sidebar tree view similar to what you get in applications like VS Code.
 
 # JAVA | Spring Boot
-  1. [Maven Quick ArcType](https://maven.apache.org/archetypes/maven-archetype-quickstart/)
-  2. [Official Spring Boot Documentation](https://docs.spring.io/spring-boot/docs/2.1.3.RELEASE/reference/html/)
-  3. [28 Minutes | Spring Boot Tutorial](https://in28minutes1.teachable.com/courses/enrolled/257263)
-  4. More 28 Minutes Link
-    - [Spring boot Intro](https://www.in28minutes.com/spring-boot-introduction-in-10-steps)
-  5. [Udemy | spring Boot | free course](https://www.udemy.com/spring-boot-complete-guide-from-development-to-deployment/learn/v4/overview)
-  6. [SpringBootTutorial | basic](http://www.springboottutorial.com/)
-  7. [Spring Boot | Auto Configuration](http://www.springboottutorial.com/spring-boot-auto-configuration)
-  
+  1. [Documentation](https://docs.spring.io/spring-boot/docs/2.1.3.RELEASE/reference/html/) - This is the Official Spring Boot Documentation
+  2. [Tutorial | Basic](https://in28minutes1.teachable.com/courses/enrolled/257263) - This is a basic tutorial from in28minutes
+  3. [Spring Boot intro in 10 steps](https://www.in28minutes.com/spring-boot-introduction-in-10-steps) - this is a tutorial from in28minutes about Spring Boot intro in 10 steps.
+  4. [SpringBoot Tutorial Site](http://www.springboottutorial.com/) - This is a unofficial site of spring boot tutorials.
+  5. [Auto Configuration](http://www.springboottutorial.com/spring-boot-auto-configuration) - this article about the auto configuration in spring boot.
+  6.   [Udemy | free course](https://www.udemy.com/spring-boot-complete-guide-from-development-to-deployment/learn/v4/overview) - This is a free course from Udemy on Springboot.
+  7. [ArcType](https://maven.apache.org/archetypes/maven-archetype-quickstart/) - what is a ArcType ? More About spring Folder Structure.
