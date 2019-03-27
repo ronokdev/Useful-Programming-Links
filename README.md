@@ -66,3 +66,4 @@
   5. [Auto Configuration](http://www.springboottutorial.com/spring-boot-auto-configuration) - this article about the auto configuration in spring boot.
   6.   [Udemy | free course](https://www.udemy.com/spring-boot-complete-guide-from-development-to-deployment/learn/v4/overview) - This is a free course from Udemy on Springboot.
   7. [ArcType](https://maven.apache.org/archetypes/maven-archetype-quickstart/) - what is a ArcType ? More About spring Folder Structure.
+  8. [Basic With Baeldung](https://www.baeldung.com/spring-boot)
