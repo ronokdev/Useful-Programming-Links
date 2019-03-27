@@ -68,3 +68,4 @@
   7. [ArcType](https://maven.apache.org/archetypes/maven-archetype-quickstart/) - what is a ArcType ? More About spring Folder Structure.
   8. [Basic With Baeldung](https://www.baeldung.com/spring-boot) - Amazing learning documents on spring boot.
  10. [Rest With Spring](https://www.baeldung.com/rest-with-spring-series) - Build Basic Rest API with SPRING boot
+ 11. [Beans | Defination](https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans)
