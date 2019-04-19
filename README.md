@@ -73,3 +73,6 @@
 
 # Data Structure | Practice
   1. [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
+  2. [Udemy | Data Structure - Part I](https://www.udemy.com/cart/subscribe/course/447758/)
+  3. [Udemy | Coding Interview Jumpstart: Algorithms and Problem Solving](https://www.udemy.com/cart/subscribe/course/1697176/)
+  4. [Data Structure and Algorithms Analysis - Job Interview](https://www.udemy.com/data-structure-and-algorithms-analysis/learn/v4/overview)
