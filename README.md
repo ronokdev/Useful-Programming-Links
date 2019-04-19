@@ -69,3 +69,7 @@
   8. [Basic With Baeldung](https://www.baeldung.com/spring-boot) - Amazing learning documents on spring boot.
  10. [Rest With Spring](https://www.baeldung.com/rest-with-spring-series) - Build Basic Rest API with SPRING boot
  11. [Beans | Defination](https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans)
+
+
+# Data Structure | Practice
+  1. [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
