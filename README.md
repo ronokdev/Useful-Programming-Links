@@ -76,3 +76,4 @@
   2. [Udemy | Data Structure - Part I](https://www.udemy.com/cart/subscribe/course/447758/)
   3. [Udemy | Coding Interview Jumpstart: Algorithms and Problem Solving](https://www.udemy.com/cart/subscribe/course/1697176/)
   4. [Data Structure and Algorithms Analysis - Job Interview](https://www.udemy.com/data-structure-and-algorithms-analysis/learn/v4/overview)
+  5. [6 Data Structures Every Java Programmer Should Know](http://www.java67.com/2013/08/ata-structures-in-java-programming-array-linked-list-map-set-stack-queue.html) ⭐⭐
