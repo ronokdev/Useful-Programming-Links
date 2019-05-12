@@ -11,6 +11,9 @@
   8. [Medium-Software Engineering](https://medium.com/topic/software-engineering)
   9. [Meditm-Programming](https://medium.com/topic/programming)
   10. [Zen of Programming](https://zen-of-programming.com/)
+  11. [CSS-Tricks | Front-End](https://css-tricks.com/)
+  12. [csswizardry | Front-End](https://csswizardry.com/)
+  13. [smashingmagazine | Front-End](https://www.smashingmagazine.com/)
   
 # conference 
   1. [The Strange Loop](https://www.thestrangeloop.com/)
