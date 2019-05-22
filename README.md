@@ -14,6 +14,8 @@
   11. [CSS-Tricks | Front-End](https://css-tricks.com/)
   12. [csswizardry | Front-End](https://csswizardry.com/)
   13. [smashingmagazine | Front-End](https://www.smashingmagazine.com/)
+  14. [Can i use](https://caniuse.com/#home)
+  15. 
   
 # conference 
   1. [The Strange Loop](https://www.thestrangeloop.com/)
@@ -80,3 +82,10 @@
   3. [Udemy | Coding Interview Jumpstart: Algorithms and Problem Solving](https://www.udemy.com/cart/subscribe/course/1697176/)
   4. [Data Structure and Algorithms Analysis - Job Interview](https://www.udemy.com/data-structure-and-algorithms-analysis/learn/v4/overview)
   5. [6 Data Structures Every Java Programmer Should Know](http://www.java67.com/2013/08/ata-structures-in-java-programming-array-linked-list-map-set-stack-queue.html) ⭐⭐
+  
+  
+# Design Patterns
+  1. [Sourcemaking](https://sourcemaking.com/design_patterns) 
+  
+# Server | Tutorial
+  1.[servers-for-hackers](https://serversforhackers.com)
