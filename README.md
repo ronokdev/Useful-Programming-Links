@@ -87,5 +87,5 @@
 # Design Patterns
   1. [Sourcemaking](https://sourcemaking.com/design_patterns) 
   
-# Server | Tutorial
-  1.[servers-for-hackers](https://serversforhackers.com)
+# Server video | Tutorial
+  1. [servers-for-hackers](https://serversforhackers.com)
