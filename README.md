@@ -15,7 +15,7 @@
   12. [csswizardry | Front-End](https://csswizardry.com/)
   13. [smashingmagazine | Front-End](https://www.smashingmagazine.com/)
   14. [Can i use](https://caniuse.com/#home)
-  15. 
+
   
 # conference 
   1. [The Strange Loop](https://www.thestrangeloop.com/)
