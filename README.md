@@ -91,3 +91,6 @@
   1. [servers-for-hackers](https://serversforhackers.com)
 # Solid Principle
   1. [solid by Mosh Hamedani](https://programmingwithmosh.com/javascript/solid-5-principles-of-object-oriented-design-every-developer-must-learn/)
+
+# Expert | Google Search
+  1. [Search Google Efficiently](https://imgur.com/rNlQJuT)
